@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Alessandro!
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
 I am a passionate High-Performance Computing (HPC) researcher based at [University of Illinois Chicago (UIC)](https://www.uic.edu/), [ESTECO](https://www.esteco.com/) and [NECST](). My work revolves around leveraging cutting-edge computational techniques to solve complex problems efficiently.
 
 ## 🔬 Research Interests
