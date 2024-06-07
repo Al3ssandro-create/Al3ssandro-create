@@ -39,7 +39,7 @@ Here are some of the technologies and programming languages I frequently work wi
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
 
 ## 📫 Get in Touch
-- LinkedIn: [Alessandro]([https://www.linkedin.com/](https://www.linkedin.com/in/alessandro-martinolli-283a8a226/?locale=de_DE&trk=people-guest_people_search-card))
+- LinkedIn: [Alessandro](https://www.linkedin.com/in/alessandro-martinolli-283a8a226/?locale=de_DE&trk=people-guest_people_search-card)
 - Email: [alessandro.martinolli@live.com](mailto:alessandro.martinolli@live.com)
 
 1. ## 📊 GitHub Stats
